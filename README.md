@@ -9,7 +9,7 @@ Function:
 
 Software used:
 1. Arduino 1.8.15
-2. I2C LCD Library http://www.esp8266learning.com/wp-content/uploads/2017/12/LiquidCrystal_I2C-master.zip
+2. I2C LCD Library https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 3. Wemos D1 Mini board driver https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Hardware used:
