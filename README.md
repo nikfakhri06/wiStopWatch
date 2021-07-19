@@ -16,6 +16,3 @@ Hardware used:
 1. Wemos D1 mini board x1
 2. I2C LCD x1
 3. Push button module x2
-
-By:
-Nik A. Fakhri
